@@ -118,9 +118,9 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.43415836"
-     inkscape:cx="1026.9549"
-     inkscape:cy="396.70611"
-     inkscape:current-layer="layer1"
+     inkscape:cx="607.43493"
+     inkscape:cy="605.21111"
+     inkscape:current-layer="g3820"
      id="namedview3723"
      showgrid="false"
      inkscape:window-width="1277"
@@ -139,7 +139,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -167,13 +167,13 @@
          style="fill:none;stroke:#ff6600;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <text
          xml:space="preserve"
-         style="font-size:68.63417053px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4304);font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue"
+         style="font-size:68.63417053000000578px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000237999999797%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue"
          id="text4204"
          sodipodi:linespacing="110%"
          transform="matrix(-0.01793718,-0.75742778,0.75742778,-0.01793718,265.22284,533.03563)"><textPath
            xlink:href="#path2403"
            id="textPath4206"
-           style="font-size:68.63417053px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue">DEMOCRAZIA  ~  TRASPARENZA  ~  DIRITTI CIVILI</textPath></text>
+           style="font-size:68.63417053000000578px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000237999999797%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue;">DEMOCRAZIA  ~  TRASPARENZA  ~  DIRITTI CIVILI</textPath></text>
       <g
          style="display:inline"
          id="g4208"
