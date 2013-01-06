@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   id="svg3719"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="elettorale-bebas-definitivo.svg"
+   inkscape:export-filename="/home/mrk25/Desktop/mrkProcedures/pirati/MRK25/elettorale-bebas-mrk25-definitivo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3721">
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 187.94982,-37.784197 C 335.90001,-62.623571 476.135,37.292433 500.97437,185.24263 525.81375,333.19281 425.89775,473.42782 277.94753,498.26717 129.99737,523.10655 -10.23763,423.19054 -35.077008,275.24033 -59.91638,127.29018 39.999635,-12.944819 187.94982,-37.784197 z"
+       id="path2403"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="filter4304"
+       inkscape:label="Drop shadow"
+       width="1.5"
+       height="1.5"
+       x="-0.25"
+       y="-0.25"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4306"
+         in="SourceAlpha"
+         stdDeviation="3"
+         result="blur" />
+      <feColorMatrix
+         id="feColorMatrix4308"
+         result="bluralpha"
+         type="matrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.5 0 " />
+      <feOffset
+         id="feOffset4310"
+         in="bluralpha"
+         dx="0"
+         dy="0"
+         result="offsetBlur" />
+      <feMerge
+         id="feMerge4312">
+        <feMergeNode
+           id="feMergeNode4314"
+           in="offsetBlur" />
+        <feMergeNode
+           id="feMergeNode4316"
+           in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4106"
+       id="radialGradient3663"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.75764014,0,0,0.75764014,259.46781,178.84026)"
+       cx="232.94867"
+       cy="230.24147"
+       fx="232.94867"
+       fy="230.24147"
+       r="343.004" />
+    <linearGradient
+       id="linearGradient4106">
+      <stop
+         style="stop-color:#c85100;stop-opacity:1;"
+         offset="0"
+         id="stop4108" />
+      <stop
+         id="stop4120"
+         offset="0.38924015"
+         style="stop-color:#ff6701;stop-opacity:1;" />
+      <stop
+         id="stop4118"
+         offset="0.74520618"
+         style="stop-color:#d85600;stop-opacity:1;" />
+      <stop
+         id="stop4114"
+         offset="0.78928047"
+         style="stop-color:#ff6701;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ff6701;stop-opacity:1;"
+         offset="0.94573969"
+         id="stop4116" />
+      <stop
+         style="stop-color:#ff6701;stop-opacity:1;"
+         offset="1"
+         id="stop4110" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4106"
+       id="radialGradient3838"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.75764014,0,0,0.75764014,259.46781,178.84026)"
+       cx="232.94867"
+       cy="230.24147"
+       fx="232.94867"
+       fy="230.24147"
+       r="343.004" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.43415836"
+     inkscape:cx="1026.9549"
+     inkscape:cy="396.70611"
+     inkscape:current-layer="layer1"
+     id="namedview3723"
+     showgrid="false"
+     inkscape:window-width="1277"
+     inkscape:window-height="693"
+     inkscape:window-x="2"
+     inkscape:window-y="87"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="mm" />
+  <metadata
+     id="metadata3725">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3820"
+       transform="translate(90.856065,37.941408)">
+      <path
+         style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.63977575;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="M 487.91646,98.698708 C 628.4456,127.3792 719.22127,264.70872 690.5408,405.23788 661.86033,545.76694 524.53079,636.54269 384.00165,607.86214 243.47251,579.18168 152.69684,441.85213 181.37733,301.32303 210.05782,160.79391 347.38732,70.018217 487.91646,98.698708 z"
+         id="path4198"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4200"
+         d="M 487.91646,98.698708 C 628.4456,127.3792 719.22127,264.70872 690.5408,405.23788 661.86033,545.76694 524.53079,636.54269 384.00165,607.86214 243.47251,579.18168 152.69684,441.85213 181.37733,301.32303 210.05782,160.79391 347.38732,70.018217 487.91646,98.698708 z"
+         style="fill:url(#radialGradient3838);fill-opacity:1;fill-rule:evenodd;stroke:#663300;stroke-width:2;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4202"
+         d="M 390.49917,152.45233 C 501.35624,127.35844 611.69334,196.96337 636.78722,307.82051 661.88109,418.67766 592.27616,529.01468 481.41902,554.10856 370.56194,579.20251 260.22484,509.5975 235.13095,398.74036 210.03706,287.88328 279.64202,177.54623 390.49917,152.45233 z"
+         style="fill:none;stroke:#ff6600;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         xml:space="preserve"
+         style="font-size:68.63417053px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4304);font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue"
+         id="text4204"
+         sodipodi:linespacing="110%"
+         transform="matrix(-0.01793718,-0.75742778,0.75742778,-0.01793718,265.22284,533.03563)"><textPath
+           xlink:href="#path2403"
+           id="textPath4206"
+           style="font-size:68.63417053px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue">DEMOCRAZIA  ~  TRASPARENZA  ~  DIRITTI CIVILI</textPath></text>
+      <g
+         style="display:inline"
+         id="g4208"
+         transform="matrix(0.85366633,0,0,0.85366633,237.29804,156.72652)">
+        <path
+           inkscape:export-ydpi="37.5"
+           inkscape:export-xdpi="37.5"
+           inkscape:export-filename="/i/perso2/ToDO/pirates/rect3169.png"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:2.69083381;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           id="path4210"
+           d="M 248.53176,452.0276 C 125.8441,461.59994 18.640546,370.08054 9.0853459,247.61248 -0.46974518,125.14579 91.241768,18.105579 213.92941,8.5332209 336.61706,-1.0391265 443.8207,90.481359 453.37581,212.94806 462.93109,335.41708 371.21939,442.45523 248.53176,452.0276 l 0,0 0,0 z"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-ydpi="566.22858"
+           inkscape:export-xdpi="566.22858"
+           inkscape:export-filename="foo.png"
+           d="M 246.65935,426.00102 C 139.02694,434.39881 44.966211,353.9535 36.568504,246.32113 28.170864,138.68956 108.61621,44.627881 216.24862,36.230091 c 107.6324,-8.39765 201.6931,72.048729 210.09074,179.680299 8.39777,107.63329 -72.04761,201.69298 -179.68001,210.09063 l 0,0 z"
+           id="path4212"
+           style="fill:#ffffff;stroke:#000000;stroke-width:23.5052948;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           inkscape:export-ydpi="566.22858"
+           inkscape:export-xdpi="566.22858"
+           inkscape:export-filename="foo.png"
+           sodipodi:nodetypes="ccscccc"
+           id="path4214"
+           d="m 109.13522,142.60409 c 26.06354,-8.05779 147.32199,-31.01961 132.45362,68.79624 -6.36137,44.06644 -50.60809,59.30982 -70.51462,71.82209 -76.863298,48.31186 13.36846,112.27032 13.36846,112.27032 0,0 -54.03826,-80.85606 19.60426,-98.47907 29.63723,-11.636 166.03525,-11.84349 170.02309,-95.53414 C 383.67306,47.211561 122.57953,91.348341 109.13522,142.60409 l 0,0 z" />
+        <rect
+           transform="matrix(0.99697011,-0.07778566,0.07778566,0.99697011,0,0)"
+           inkscape:export-ydpi="566.22858"
+           inkscape:export-xdpi="566.22858"
+           inkscape:export-filename="foo.png"
+           id="rect4216"
+           y="102.76622"
+           x="132.97603"
+           height="218.99525"
+           width="21.231888" />
+      </g>
+      <path
+         style="fill:none;stroke:#663300;stroke-width:2;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="M 487.91646,98.698708 C 628.4456,127.3792 719.22127,264.70872 690.5408,405.23788 661.86033,545.76694 524.53079,636.54269 384.00165,607.86214 243.47251,579.18168 152.69684,441.85213 181.37733,301.32303 210.05782,160.79391 347.38732,70.018217 487.91646,98.698708 z"
+         id="path4220"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g3814">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 629.72957,453.42591 -381.99996,32.40624 3.59372,50.24995 c 11.13935,11.27687 23.34259,21.54373 36.49999,30.68754 L 617.88584,538.7696 c 5.83125,-5.70654 11.3965,-11.71069 16.68748,-17.96864 l -4.84375,-67.37505 z"
+           id="path4218" />
+        <text
+           transform="matrix(0.9969701,-0.07778569,0.07778569,0.9969701,0,0)"
+           sodipodi:linespacing="110%"
+           id="text4222"
+           y="569.29187"
+           x="228.70566"
+           style="font-size:74.92230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;fill:#ff6600;fill-opacity:1;stroke:none;display:inline;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue"
+           xml:space="preserve"><tspan
+             style="font-size:74.92230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;fill:#ff6600;fill-opacity:1;stroke:none;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue"
+             y="569.29187"
+             x="228.70566"
+             id="tspan4224"
+             sodipodi:role="line">PARTITO <tspan
+   id="tspan4226"
+   style="font-size:74.92230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue">PIRATA</tspan></tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
