@@ -14,12 +14,12 @@
    height="210mm"
    id="svg4239"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="bandiera-bebas-definitivo.svg"
-   inkscape:export-filename="/home/mrk25/Desktop/mrkProcedures/pirati/bitmaps/bandiera-bebas-definitivo.png"
+   sodipodi:docname="bandiera-bebas-definitivo-arancione.svg"
+   inkscape:export-filename="/home/mrk25/Desktop/mrkProcedures/pirati/bitmaps/bandiera-bebas-definitivo-arancione.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#ff6600"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -31,9 +31,9 @@
      inkscape:window-height="832"
      id="namedview30"
      showgrid="false"
-     inkscape:zoom="0.25657875"
-     inkscape:cx="778.21228"
-     inkscape:cy="965.2588"
+     inkscape:zoom="0.5131575"
+     inkscape:cx="1017.0001"
+     inkscape:cy="351.71492"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -65,7 +65,7 @@
          x="353.60574"
          y="-469.46332"
          id="rect3822"
-         style="fill:#ff6600;fill-opacity:1;stroke:none" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
       <rect
          style="fill:#000000;fill-opacity:1;stroke:none"
          id="rect11832"
@@ -90,9 +90,9 @@
          y="456.03033"
          id="text3852"
          xml:space="preserve"
-         style="font-size:33.04864502000000215px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue"
+         style="font-size:33.04864502000000215px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue"
          sodipodi:linespacing="125%"><tspan
-           style="fill:#ffffff"
+           style="fill:#000000"
            x="458.69162"
            y="456.03033"
            id="tspan3854">Democrazia ~ trasparenza ~ diritti civili</tspan></text>
