@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.1 r9760"
    sodipodi:docname="elettorale-bebas-definitivo.svg"
-   inkscape:export-filename="/home/mrk25/Desktop/mrkProcedures/pirati/MRK25/elettorale-bebas-mrk25-definitivo.png"
+   inkscape:export-filename="/home/mrk25/Desktop/mrkProcedures/pirati/bitmaps/elettorale-bebas-definitivo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -139,7 +139,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
