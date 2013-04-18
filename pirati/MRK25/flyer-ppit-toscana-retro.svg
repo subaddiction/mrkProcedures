@@ -13,26 +13,13 @@
    height="524.40942"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
-   sodipodi:docname="flyer-ppit-toscana-retro.svg"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="volantino-ppit-toscana-retro.svg"
    inkscape:export-filename="/home/mrk25/Desktop/PIRATI/flyer-ppit-toscana-retro.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
-     id="defs4">
-    <filter
-       inkscape:collect="always"
-       id="filter17663"
-       x="-0.044719307"
-       width="1.0894386"
-       y="-0.27869711"
-       height="1.5573942">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="6.5029326"
-         id="feGaussianBlur17665" />
-    </filter>
-  </defs>
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -41,15 +28,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="159.27163"
-     inkscape:cy="86.426592"
+     inkscape:cx="272.27163"
+     inkscape:cy="246.42659"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g17765"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="832"
+     inkscape:window-width="1680"
+     inkscape:window-height="979"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      borderlayer="true" />
   <metadata
@@ -4654,29 +4641,28 @@
        id="g17765"
        transform="translate(0,5)">
       <rect
-         transform="matrix(2.278689,0,0,0.72505191,-242.31157,276.88247)"
-         y="983.86212"
-         x="15"
-         height="56"
-         width="349"
+         y="990.23358"
+         x="15.868765"
+         height="40.602905"
+         width="340"
          id="rect16944"
-         style="fill:#f2f2f2;fill-opacity:0.94117647;stroke:none;filter:url(#filter17663)" />
+         style="fill:#f2f2f2;fill-opacity:0.94117647;stroke:none" />
       <text
          sodipodi:linespacing="125%"
          id="text15927-4-40"
          y="1006.2264"
-         x="251.46049"
+         x="241.46049"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:CMU Sans Serif;-inkscape-font-specification:CMU Sans Serif Medium"
          xml:space="preserve"><tspan
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:CMU Sans Serif;-inkscape-font-specification:CMU Sans Serif Medium"
            y="1006.2264"
-           x="251.46049"
+           x="241.46049"
            id="tspan15929-9-3"
            sodipodi:role="line">www.partito-pirata.it</tspan><tspan
            id="tspan17637"
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:CMU Sans Serif;-inkscape-font-specification:CMU Sans Serif Medium"
            y="1021.2264"
-           x="251.46049"
+           x="241.46049"
            sodipodi:role="line">info@partito-pirata.it</tspan></text>
     </g>
     <g
