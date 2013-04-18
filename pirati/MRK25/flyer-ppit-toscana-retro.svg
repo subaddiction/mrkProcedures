@@ -7,19 +7,25 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="372.04724"
    height="524.40942"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="volantino-ppit-toscana-retro.svg"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="flyer-ppit-toscana-retro.svg"
    inkscape:export-filename="/home/mrk25/Desktop/PIRATI/flyer-ppit-toscana-retro.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
-     id="defs4" />
+     id="defs4">
+    <color-profile
+       name="ISO-Coated"
+       xlink:href="/usr/share/color/icc/ISOcoated.icc"
+       id="color-profile3470" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -28,15 +34,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="272.27163"
-     inkscape:cy="246.42659"
-     inkscape:document-units="px"
-     inkscape:current-layer="g17765"
+     inkscape:cx="75.478846"
+     inkscape:cy="272.41729"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="979"
+     inkscape:window-width="1440"
+     inkscape:window-height="832"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      borderlayer="true" />
   <metadata
@@ -47,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,13 +63,16 @@
      id="layer1"
      transform="translate(0,-527.95269)">
     <rect
-       style="fill:#200c00;fill-opacity:1;stroke:none"
+       style="fill:#100400;fill-opacity:1;stroke:none"
        id="rect5072"
-       width="538.81537"
-       height="388.90875"
-       x="-1059.5651"
-       y="-8.4307556"
-       transform="matrix(0,-1,1,0,0,0)" />
+       width="538.5827"
+       height="386.22046"
+       x="-1059.4487"
+       y="-7.0866089"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="/home/mrk25/Desktop/PIRATI/flyer-ppit-toscana-retro-abbondanza.png"
+       inkscape:export-xdpi="300.14001"
+       inkscape:export-ydpi="300.14001" />
     <g
        transform="matrix(0.34274285,0.05618409,-0.05618409,0.34274285,-650.21193,2156.5154)"
        id="g3353"
