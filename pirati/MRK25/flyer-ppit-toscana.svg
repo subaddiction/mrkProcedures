@@ -97,11 +97,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="333.56907"
-     inkscape:cy="133.34264"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="45.165957"
+     inkscape:cy="143.5009"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="832"
@@ -121,7 +121,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -133,10 +133,13 @@
     <rect
        style="fill:#ff6600;fill-opacity:1;stroke:none"
        id="rect5072"
-       width="538.81537"
-       height="388.90875"
-       x="-7.2029724"
-       y="143.93143" />
+       width="538.5827"
+       height="386.22046"
+       x="-7.0866394"
+       y="145.27557"
+       inkscape:export-filename="/home/mrk25/Desktop/PIRATI/flyer-ppit-toscana-fronte-abbondanza.png"
+       inkscape:export-xdpi="300.121"
+       inkscape:export-ydpi="300.121" />
   </g>
   <g
      inkscape:groupmode="layer"
