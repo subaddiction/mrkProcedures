@@ -15,10 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="flyer-ppit-toscana.svg"
-   inkscape:export-filename="/home/mrk25/Desktop/PIRATI/flyer-ppit-toscana.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300">
+   sodipodi:docname="flyer-ppit-yanfry-edit.svg"
+   inkscape:export-filename="/home/mrk25/Desktop/PIRATI/mrkProcedures/pirati/MRK25/flyer-ppit-yanfry-edit.png"
+   inkscape:export-xdpi="300.121"
+   inkscape:export-ydpi="300.121">
   <defs
      id="defs4">
     <filter
@@ -97,12 +97,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="136.91601"
-     inkscape:cy="280.09666"
+     inkscape:zoom="0.7"
+     inkscape:cx="281.16229"
+     inkscape:cy="279.39986"
      inkscape:document-units="px"
-     inkscape:current-layer="g3106"
-     showgrid="false"
+     inkscape:current-layer="layer3"
+     showgrid="true"
      inkscape:window-width="1440"
      inkscape:window-height="832"
      inkscape:window-x="0"
@@ -111,8 +111,16 @@
      borderlayer="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="false"
-     units="mm" />
+     inkscape:snap-global="true"
+     units="mm">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3348"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -121,7 +129,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -137,16 +145,15 @@
        height="386.22046"
        x="-7.0866394"
        y="145.27557"
-       inkscape:export-filename="/home/mrk25/Desktop/PIRATI/flyer-ppit-toscana-fronte-abbondanza.png"
-       inkscape:export-xdpi="300.121"
-       inkscape:export-ydpi="300.121" />
+       inkscape:export-filename="/home/mrk25/Desktop/flyer-ppit-yanfry-edit-test.png"
+       inkscape:export-xdpi="300.12"
+       inkscape:export-ydpi="300.12" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(0,-152.36218)"
-     sodipodi:insensitive="true">
+     transform="translate(0,-152.36218)">
     <path
        inkscape:connector-curvature="0"
        inkscape:export-ydpi="566.22858"
@@ -1615,7 +1622,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="matrix(-0.49616759,0,0,-0.49616759,1307.3861,-1910.6524)"
+         transform="matrix(-0.49616759,0,0,-0.49616759,1287.7426,-2030.482)"
          id="g14662"
          style="fill:#ffa000;fill-opacity:1">
         <path
@@ -3027,7 +3034,28 @@
            inkscape:tile-x0="-390.47957"
            inkscape:tile-y0="-3270.0377" />
       </g>
-    </g>
+      <flowRoot
+         transform="matrix(1.409756,-0.23109413,0.23109413,1.409756,-2845.8372,3237.7929)"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:CMU Sans Serif;-inkscape-font-specification:CMU Sans Serif Medium"
+         id="flowRoot3757"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3759"><rect
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;font-family:CMU Sans Serif;-inkscape-font-specification:CMU Sans Serif Medium;text-anchor:start;text-align:justify;fill:#ffffff"
+             y="-1960.0657"
+             x="2261.0793"
+             height="319.99994"
+             width="504.99994"
+             id="rect3761" /></flowRegion><flowPara
+           id="flowPara3767">Partecipazione diretta e permanente alla vita politica: uso degli strumenti di democrazia partecipativa in Rete e al di fuori di essa (Democrazia Liquida)</flowPara><flowPara
+           id="flowPara3769">Accesso alla Rete Internet libero e gratuito: informazione, cultura, libertà di espressione e condivisione della conoscenza</flowPara><flowPara
+           id="flowPara3771">Trasparenza della Politica e della Pubblica Amministrazione perché sono i cittadini che devono poter controllare lo Stato e non lo Stato i cittadini</flowPara><flowPara
+           id="flowPara3773">Difesa dei Diritti Civili anche in abito digitale: Informazione libera, Privacy, Lotta alla Censura, Diritto all’istruzione pubblica e dignità dell'essere umano</flowPara><flowPara
+           id="flowPara3775">Reddito di esistenza per assicurare ad ognuno la possibilità di trascorrere una vita sociale, produttiva, creativa, non caratterizzata da paure di esistenza</flowPara><flowPara
+           id="flowPara3777">Abolizione di TUTTI i monopoli da quello dell'informazione e della Politica dei politicanti a quello del Copyright e dei Brevetti</flowPara><flowPara
+           id="flowPara3779" /><flowPara
+           id="flowPara3781">Se vuoi conoscerci e condividere idee e proposte</flowPara><flowPara
+           id="flowPara3783">info@partito-pirata.it - ppferrara@autistici.org</flowPara><flowPara
+           id="flowPara3907">http://www.partito-pirata.it – twitter @partitopirata</flowPara></flowRoot>    </g>
     <image
        y="957.81067"
        x="429.74078"
@@ -3048,7 +3076,7 @@
          y="1040.2544">www.partito-pirata.it</tspan></text>
     <g
        id="g3106"
-       transform="matrix(0.35770362,0,0,0.35770362,174.84597,579.79905)">
+       transform="matrix(0.35770362,0,0,0.35770362,174.84597,517.29905)">
       <path
          transform="matrix(0.99712454,-0.07578025,0.07984348,0.99680741,0,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline"
@@ -3159,7 +3187,7 @@
     </g>
     <g
        id="g15474"
-       transform="matrix(0.7,0,0,0.7,1.2466435,318.10719)">
+       transform="matrix(0.48371836,0,0,0.48371836,139.2242,372.76745)">
       <text
          sodipodi:linespacing="125%"
          id="text15470"
